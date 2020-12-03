@@ -1,4 +1,5 @@
 # Exercise 06 - tempConversion
+TOO EASY
 
 Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa:
 ```
